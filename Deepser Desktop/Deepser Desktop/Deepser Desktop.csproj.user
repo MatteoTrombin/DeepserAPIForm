@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ActivityCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Favorite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Setup\AdminSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Collection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Create.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ComboBoxPlus.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OvalPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Settings\ResetSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Setup\SectorRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\DepartmentSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Setup\DepartmentSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Setup\Setup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Setup\SetupEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\UserSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Setup\UserSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
